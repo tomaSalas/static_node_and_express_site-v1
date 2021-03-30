@@ -6,9 +6,9 @@
             "project_name": "Random Quote Generator",
             "description": "App that generates a random quote every time the user click a button and/or after a fixed amount of time have passed",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
-            "github_link": "",
-            "image_urls": ["/static/images/1_RandomQuoteGenerator_landing.png", "/static/images/1_RandomQuoteGenerator_1.png", "/static/images/1_RandomQuoteGenerator_2.png", "/static/images/1_RandomQuoteGenerator_3.png"] 
+            "live_link": "https://tomasalas.github.io/Random_Quotes_Generator/",
+            "github_link": "https://github.com/tomaSalas/Random_Quotes_Generator",
+            "image_urls": ["/static/images/randomQuotes.png"] 
         },
 
 
@@ -17,9 +17,9 @@
             "project_name": "List pagination and filtering",
             "description": "App that generates a random quote every time the user click a button and/or after a fixed amount of time have passed",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "",
+            "live_link": "https://tomasalas.github.io/Data_Pagination_and_filtering/",
             "github_link": "",
-            "image_urls": ["/static/images/2_listPagAndFilt_landing.png", "/static/images/2_listPagAndFilt_1.png", "/static/images/2_listPagAndFilt_2.png", "/static/images/2_listPagAndFilt_3.png"]
+            "image_urls": ["/static/images/pagination.png"]
         },
         
         {
@@ -27,9 +27,9 @@
             "project_name": "Interactive form",
             "description": "Interactive form to register for a conference",
             "technologies": ["HTML", "CSS", "JavaScript", "JQuery"],
-            "live_link": "",
-            "github_link": "",
-            "image_urls": ["/static/images/3_interactiveForm_landing.png", "/static/images/3_interactiveForm_1.png", "/static/images/3_interactiveForm_2.png", "/static/images/3_interactiveForm_3.png"]
+            "live_link": "https://tomasalas.github.io/interactive-form-v3/",
+            "github_link": "https://github.com/tomaSalas/interactive-form-v3",
+            "image_urls": ["/static/images/form.png"]
         },
 
         {
@@ -37,9 +37,9 @@
             "project_name": "Phrase Hunter - A word guessing game",
             "description": "Game in which the user has to guess a hidden word",
             "technologies": ["HTML", "CSS", "JavaScript",  "JQuery"],
-            "live_link": "",
-            "github_link": "",
-            "image_urls": ["/static/images/4_PhraseHunter_landing.png", "/static/images/4_PhraseHunter_1.png", "/static/images/4_PhraseHunter_2.png", "/static/images/4_PhraseHunter_3.png"]
+            "live_link": "https://tomasalas.github.io/oop_game-v2/",
+            "github_link": "https://github.com/tomaSalas/oop_game-v2",
+            "image_urls": ["/static/images/hunter.png"]
         },
 
         {
@@ -47,9 +47,9 @@
             "project_name": "Public Api Request",
             "description": "Game in which the user has to guess a hidden word",
             "technologies": ["HTML", "CSS", "JavaScript",  "JQuery", "Ajax"],
-            "live_link": "",
-            "github_link": "",
-            "image_urls": ["/static/images/5_PublicAPI_landing.png", "/static/images/5_PublicAPI_1.png", "/static/images/5_PublicAPI_2.png", "/static/images/5_PublicAPI_3.png"]
+            "live_link": "https://tomasalas.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/tomaSalas/public_api_request-v1",
+            "image_urls": ["/static/images/fetch.png"]
         }
 
     ]

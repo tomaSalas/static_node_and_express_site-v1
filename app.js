@@ -5,8 +5,10 @@ const port = 3000
 
 const mainRoute = require("./routes/index")
 app.use(mainRoute);
+
 const aboutRoute = require("./routes/about")
 app.use("/about", aboutRoute);
+
 const projectRoute = require("./routes/project");
 app.use("/project", projectRoute);
 

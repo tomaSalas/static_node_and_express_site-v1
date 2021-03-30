@@ -1,11 +1,11 @@
 const express = require("express");
-const data = require("../data.json");
+const { projects } = require("../data.json");
 const router = express.Router();
 
 
 
 router.get('/', (req, res) => {
-    res.render("index", { projects: data });
+    res.render("index", { projects });
   
   });
 
