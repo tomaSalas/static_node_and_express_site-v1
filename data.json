@@ -26,7 +26,7 @@
             "id": 2,
             "project_name": "Interactive form",
             "description": "Interactive form to register for a conference",
-            "technologies": ["HTML", "CSS", "JavaScript", "JQuery"],
+            "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://tomasalas.github.io/interactive-form-v3/",
             "github_link": "https://github.com/tomaSalas/interactive-form-v3",
             "image_urls": ["/static/images/form.png"]

@@ -266,9 +266,20 @@ nav a span {
 /* 
   About and project pages styles 
 */
+.skills-contact-box.box {
+  background-color: rgb(0, 0, 0);
+  box-shadow: 8px 8px 8px rgba(0,0,0,0.12);
+}
+
+
+.textColor{
+  color: #dfdfdf;
+
+}
 .about-intro-box p,
 .project-info-box p {
   font-size: 125%;
+  
 }
 
 .about-bio p {

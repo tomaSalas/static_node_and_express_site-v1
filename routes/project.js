@@ -6,4 +6,5 @@ const router = express.Router();
 router.get("/:id", (req, res) => {
     res.render("../views/project", { project: projects[req.params.id] }) });
 
+
 module.exports = router;
