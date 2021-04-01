@@ -8,7 +8,9 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://tomasalas.github.io/Random_Quotes_Generator/",
             "github_link": "https://github.com/tomaSalas/Random_Quotes_Generator",
-            "image_urls": ["/static/images/randomQuotes.png"] 
+            "image_urls": ["/static/images/randomQuotes.png",
+                "/static/images/randomQuotes1.png",
+                "/static/images/randomQuotes2.png"] 
         },
 
 
@@ -18,8 +20,10 @@
             "description": "App that generates a random quote every time the user click a button and/or after a fixed amount of time have passed",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://tomasalas.github.io/Data_Pagination_and_filtering/",
-            "github_link": "",
-            "image_urls": ["/static/images/pagination.png"]
+            "github_link": "https://github.com/tomaSalas/Data_Pagination_and_filtering",
+            "image_urls": ["/static/images/pagination.png",
+                "/static/images/pagination1.png",
+                "/static/images/pagination2.png"]
         },
         
         {
@@ -29,7 +33,9 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://tomasalas.github.io/interactive-form-v3/",
             "github_link": "https://github.com/tomaSalas/interactive-form-v3",
-            "image_urls": ["/static/images/form.png"]
+            "image_urls": ["/static/images/form.png",
+                "/static/images/filter1.png",
+                "/static/images/filter2.png"]
         },
 
         {
@@ -39,7 +45,9 @@
             "technologies": ["HTML", "CSS", "JavaScript",  "JQuery"],
             "live_link": "https://tomasalas.github.io/oop_game-v2/",
             "github_link": "https://github.com/tomaSalas/oop_game-v2",
-            "image_urls": ["/static/images/hunter.png"]
+            "image_urls": ["/static/images/hunter.png",
+                "/static/images/op1.png",
+                "/static/images/op2.png"]
         },
 
         {
@@ -49,7 +57,9 @@
             "technologies": ["HTML", "CSS", "JavaScript",  "JQuery", "Ajax"],
             "live_link": "https://tomasalas.github.io/public_api_request-v1/",
             "github_link": "https://github.com/tomaSalas/public_api_request-v1",
-            "image_urls": ["/static/images/fetch.png"]
+            "image_urls": ["/static/images/fetch.png",
+                "/static/images/dyn1.png",
+                "/static/images/dyn2.png"]
         }
 
     ]
